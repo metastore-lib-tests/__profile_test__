@@ -1,5 +1,5 @@
 {
-  "name": "mydataset",
+  "name": "mydataset-2",
   "resources": [
     {
       "path": "data/myresource.csv"
